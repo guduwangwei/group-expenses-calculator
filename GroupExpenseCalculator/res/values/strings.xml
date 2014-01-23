@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Group Expense Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="create_new_trip">Create New Trip</string>
+    <string name="manage_trips">Manage Trips</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="title_activity_create_new_trip">Create New Trip</string>
+	<string name="name">Name</string>
+	<string name="country">Country</string>
+	<string name="person">Person</string>
+	<string name="create">Create</string>
+	<string name="reset">Reset</string>
+	
+</resources>
